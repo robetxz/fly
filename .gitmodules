@@ -1,3 +1,6 @@
 [submodule "rack"]
 	path = rack
 	url = git://github.com/chneukirchen/rack.git
+[submodule "a/self"]
+	path = a/self
+	url = https://github.com/robetxz/fly.git
