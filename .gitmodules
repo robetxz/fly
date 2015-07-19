@@ -4,3 +4,6 @@
 [submodule "a/self"]
 	path = a/self
 	url = https://github.com/robetxz/fly.git
+[submodule "paracel"]
+	path = paracel
+	url = git://github.com/douban/paracel.git
